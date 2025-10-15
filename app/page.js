@@ -1,6 +1,7 @@
 import { cookies } from "next/headers";
 import { redirect } from "next/navigation";
 import TodosPage from "./components/Todos";
+import Header from "./components/Header";
 
 export default async function Home() {
   const cookieStore =await cookies();
@@ -12,6 +13,7 @@ export default async function Home() {
 
   return (
     <>
+      <Header />
       <TodosPage/>
     </>
   );

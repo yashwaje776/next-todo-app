@@ -131,7 +131,7 @@ export default function TodosPage() {
 
   return (
     <div className="min-h-screen flex flex-col items-center pt-12 bg-black text-white transition-colors duration-300">
-      <h1 className="text-3xl font-bold mb-6">📝 Todo List (API)</h1>
+      <h1 className="text-3xl font-bold mb-6">📝 Todo List </h1>
 
       {error && <p className="text-red-500 mb-4">{error}</p>}
 
