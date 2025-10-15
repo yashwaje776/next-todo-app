@@ -1,4 +1,18 @@
+# Next.js Todo App
+
+A simple todo app built with Next.js and MongoDB.
+
+## 🚀 Live Demo
+live link : [https://next-todo-app-eight-snowy.vercel.app/](https://next-todo-app-eight-snowy.vercel.app/)
+
+## 🧰 Tech Stack
+- Next.js 14
+- MongoDB
+- Tailwind CSS
+- Vercel (Deployment)
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
 
 ## Getting Started
 
